@@ -61,3 +61,6 @@ __진하게2__
 ---
 
 ### 6. 이미지 가져오기
+![image](https://user-images.githubusercontent.com/76733288/110652214-81d81e00-81ff-11eb-8acf-18b0dfa89dfe.png)
+
+홈페이지에서 이미지를 복사한 후 issue에 들어가서 붙여넣기 하면 링크를 바로 얻을 수 있습니다.
